@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "https://cnft.cheeseswap.app/static/js/main.594a6a56.chunk.js",
+    "runtime-main.js": "https://cnft.cheeseswap.app/static/js/runtime-main.689d9382.js",
+    "static/js/2.49407dbe.chunk.js": "https://cnft.cheeseswap.app/static/js/2.49407dbe.chunk.js",
+    "static/js/3.263b6290.chunk.js": "https://cnft.cheeseswap.app/static/js/3.263b6290.chunk.js",
+    "static/js/4.9fd219b4.chunk.js": "https://cnft.cheeseswap.app/static/js/4.9fd219b4.chunk.js",
+    "index.html": "https://cnft.cheeseswap.app/index.html",
+    "static/js/2.49407dbe.chunk.js.LICENSE.txt": "https://cnft.cheeseswap.app/static/js/2.49407dbe.chunk.js.LICENSE.txt",
+    "static/js/3.263b6290.chunk.js.LICENSE.txt": "https://cnft.cheeseswap.app/static/js/3.263b6290.chunk.js.LICENSE.txt",
+    "static/media/KIWI.c0c10fe7.png": "https://cnft.cheeseswap.app/static/media/KIWI.c0c10fe7.png",
+    "static/media/built-on-bsc.aac6e7c8.svg": "https://cnft.cheeseswap.app/static/media/built-on-bsc.aac6e7c8.svg",
+    "static/media/certik.18815983.svg": "https://cnft.cheeseswap.app/static/media/certik.18815983.svg",
+    "static/media/cg.f8569e11.png": "https://cnft.cheeseswap.app/static/media/cg.f8569e11.png",
+    "static/media/cmc.4e13a6fc.png": "https://cnft.cheeseswap.app/static/media/cmc.4e13a6fc.png",
+    "static/media/email.c7df3a4e.svg": "https://cnft.cheeseswap.app/static/media/email.c7df3a4e.svg",
+    "static/media/github.64a17418.svg": "https://cnft.cheeseswap.app/static/media/github.64a17418.svg",
+    "static/media/ipfs.7b449f80.svg": "https://cnft.cheeseswap.app/static/media/ipfs.7b449f80.svg",
+    "static/media/lbank.22ee4ecb.png": "https://cnft.cheeseswap.app/static/media/lbank.22ee4ecb.png",
+    "static/media/oneinch.fc7989a0.png": "https://cnft.cheeseswap.app/static/media/oneinch.fc7989a0.png",
+    "static/media/telegram.aaa16c8f.svg": "https://cnft.cheeseswap.app/static/media/telegram.aaa16c8f.svg",
+    "static/media/twitter.77c0406e.svg": "https://cnft.cheeseswap.app/static/media/twitter.77c0406e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.689d9382.js",
+    "static/js/2.49407dbe.chunk.js",
+    "static/js/main.594a6a56.chunk.js"
+  ]
+}
